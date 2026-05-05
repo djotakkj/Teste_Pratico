@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Fiz esse programa que quando executado, ele pede para o usuário digitar uma palavra ou frase e verifica se é um palíndromo.
+// Fiz esse código que quando executado, ele pede para o usuário digitar uma palavra ou frase e verifica se é um palíndromo.
 // Ou seja, se a palavra ou frase é a mesma quando lida de trás para frente, ignorando espaços e diferenças entre maiúsculas e minúsculas.
 // O programa utiliza um loop para comparar os caracteres do início e do fim da string.
 // Avançando em direção ao centro até que uma diferença seja encontrada ou até que todos os caracteres sejam verificados.
