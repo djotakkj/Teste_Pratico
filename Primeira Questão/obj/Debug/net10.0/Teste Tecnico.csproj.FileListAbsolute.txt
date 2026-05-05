@@ -1,0 +1,14 @@
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.AssemblyInfoInputs.cache
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.AssemblyInfo.cs
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\bin\Debug\net10.0\Teste Tecnico.exe
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\bin\Debug\net10.0\Teste Tecnico.deps.json
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\bin\Debug\net10.0\Teste Tecnico.runtimeconfig.json
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\bin\Debug\net10.0\Teste Tecnico.dll
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\bin\Debug\net10.0\Teste Tecnico.pdb
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.dll
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\refint\Teste Tecnico.dll
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.pdb
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\Teste Tecnico.genruntimeconfig.cache
+C:\Users\histo\OneDrive\Documentos\Teste Tecnico\obj\Debug\net10.0\ref\Teste Tecnico.dll
